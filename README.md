@@ -16,10 +16,10 @@ The circuit is based on the LM358 operational amplifier, which compares the soil
 - Compact PCB layout for easy soil monitoring applications  
 
 ## 📂 Repository Structure
-- **schematic/** → Soil moisture sensor schematic diagram (PDF/PNG)  
+- **schematic and BOM/** → Soil moisture sensor schematic diagram and BOM (PDF/PNG)  
 - **pcb_layout/** → PCB layout images  
 - **gerber_files/** → Fabrication-ready files for PCB manufacturing  
-- **source/** → EasyEDA project files  
+- **3D Model/** → 3D view on top and bottom images. 
 
 ## 🚀 How to Use
 1. Open the project in **EasyEDA**.  
